@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hey, I’m Kitø
 
-<!--
-**ansolodev/ansolodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Self-taught developer • IT enthusiast • Educator  
+🎓 Currently studying Google IT Support  
+🎮 Future indie dev with a love for design, systems, and creative tech
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Do
+- Developed a **school-wide QR ID system** using Photoshop, Google Forms, and QRMonkey  
+- Maintain school systems and teach **Senior High Tech, PE, and Business**  
+- Learning by building: from fixing my own WiFi to customizing entire workflows  
+- Passionate about **making tech accessible and intuitive**
+
+---
+
+## 🚀 Current Goals
+- Finish Google IT Support via Coursera  
+- Explore **Python**, **Git**, and **Ren’Py**  
+- Build a portfolio of practical and creative projects  
+- Eventually develop my own **visual novel/game project**
+
+---
+
+## 🧠 Inspired By
+I'm drawn to **storytelling through design and tech**, inspired by the creative devs behind narrative games and VNs.  
+Building one of my own someday? That’s on the roadmap. 😤
+
+---
+
+## 📫 Contact
+**Email:** ansolo.dev@gmail.com  
+<!-- LinkedIn / Portfolio site placeholder -->
+
+---
+
+> _"Build from what you know. Learn what you don’t. Ship what matters."_  
