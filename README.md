@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Current Goals
-- Finish Google IT Support via Coursera  
+- Finish Python Learning via Coursera  
 - Explore **Python**, **Git**, and **Ren’Py**  
 - Build a portfolio of practical and creative projects  
 - Eventually develop my own **visual novel/game project**
