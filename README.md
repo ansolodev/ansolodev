@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Kitø
 
 💻 Self-taught developer • IT enthusiast • Educator  
-🎓 Currently studying Google IT Support  
+🎓 Studied Google IT Support, currently deep learning Python.  
 🎮 Future indie dev with a love for design, systems, and creative tech
 
 ---
