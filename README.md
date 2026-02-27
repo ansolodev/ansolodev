@@ -15,7 +15,8 @@
 ---
 
 ## 🚀 Current Goals
-- Finish Python Learning via Coursera  
+- Finish Python Learning via Coursera
+- Enrolling to get my IT Degree 
 - Explore **Python**, **Git**, and **Ren’Py**  
 - Build a portfolio of practical and creative projects  
 - Eventually develop my own **visual novel/game project**
